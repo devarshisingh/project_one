@@ -1,5 +1,18 @@
+# Composer dependency directory
 vendor/
+
+# Node modules directory
 node_modules/
+
+# OSX system files
 .DS_Store
+
+# Log files
 *.log
+
+# Environment variables
 *.env
+
+# Ignore IDE specific files
+.idea/
+.vscode/
